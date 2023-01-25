@@ -1,0 +1,11 @@
+#keret {
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+    border-style: dashed;
+    border-color: black;
+}
+
+#piros {
+    color: red;
+}
